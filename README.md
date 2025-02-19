@@ -4,7 +4,7 @@
 
 ## Connect
 
-- [![Twitter](https://static.is26.com/tmp/icons/twitter.svg)]([https://zuoluo.tv/twitter](https://x.com/PhinsinWang))[Twitter: Phinsin](https://zuoluo.tv/twitter)
+- [![Twitter](https://static.is26.com/tmp/icons/twitter.svg)]([https://zuoluo.tv/twitter](https://x.com/PhinsinWang))[Twitter: Phinsin](https://x.com/PhinsinWang)
 - [![Instagram](https://static.is26.com/tmp/icons/instagram.svg)](https://instagram.com/luoleiorg)[Instagram: luoleiorg](https://zuoluo.tv/ig)
 - [![YouTube](https://static.is26.com/tmp/icons/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
 - [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://zuoluo.tv/bilibili)[Bilibili 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
