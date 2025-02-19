@@ -5,15 +5,12 @@
 ## Connect
 
 - [![Twitter](https://static.is26.com/tmp/icons/twitter.svg)]([https://zuoluo.tv/twitter](https://x.com/PhinsinWang))[Twitter: Phinsin](https://x.com/PhinsinWang)
-- [![Instagram](https://static.is26.com/tmp/icons/instagram.svg)](https://instagram.com/luoleiorg)[Instagram: luoleiorg](https://zuoluo.tv/ig)
-- [![YouTube](https://static.is26.com/tmp/icons/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
-- [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://zuoluo.tv/bilibili)[Bilibili 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
-- [![Telegram](https://static.is26.com/tmp/icons/telegram.svg)](https://t.me/zuoluotv)[Telegram Group](https://t.me/zuoluotv)
-- [![Telegram](https://static.is26.com/tmp/icons/telegram2.svg)](https://t.me/zuoluotvofficial)[Telegram Channel](https://t.me/zuoluotvofficial)
-- [![zhihu](https://static.is26.com/tmp/icons/zhihu.svg)](https://zuoluo.tv/zhihu)[Zhihu: 罗磊](https://zuoluo.tv/zhihu)
-- [![wechat](https://static.is26.com/tmp/icons/wechat.svg)](https://zuoluo.tv/wechat)[WeChat Official Accounts:罗磊啰嗦](https://zuoluo.tv/wechat)
-- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[Github: foru17](https://github.com/foru17)
-- [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[Mail: i@luolei.org](mailto:i@luolei.org)
+- [![Instagram](https://static.is26.com/tmp/icons/instagram.svg)](https://www.instagram.com/_phinsin/)[Instagram: _phinsin](https://www.instagram.com/_phinsin/)
+- [![YouTube](https://static.is26.com/tmp/icons/youtube.svg)](https://www.youtube.com/@phinsinwang0128) [YouTube: Phinsin](https://www.youtube.com/@phinsinwang0128)
+- [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://space.bilibili.com/32358324)[Bilibili 哔哩哔哩: Phinsin](https://space.bilibili.com/32358324)
+<!-- - [![Telegram](https://static.is26.com/tmp/icons/telegram.svg)](https://t.me/zuoluotv)[Telegram Group](https://t.me/zuoluotv) -->
+- [![Telegram](https://static.is26.com/tmp/icons/telegram2.svg)](https://t.me/phinsin666)[Telegram Channel](https://t.me/phinsin666)
+- [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:wenchen.post@gmail.com)[Mail: Phinsin](mailto:wenchen.post@gmail.com)
 
 
 
