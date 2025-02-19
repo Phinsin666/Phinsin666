@@ -20,7 +20,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/54831037" />
 
 <p>&emsp;&emsp;嗨，我是Phinsin。热爱编程、读书、健身、旅行。</p>
 <p>&emsp;&emsp;由于摆烂，现在是某小学英语老师躺平中。</p>
