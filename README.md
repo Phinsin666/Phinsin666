@@ -24,7 +24,7 @@
 
 <p>&emsp;&emsp;Hi，我是Phinsin。热爱游戏、读书、旅行。</p>
 <p>&emsp;&emsp;由于摆烂，现在是某小学英语老师躺平中。</p>
-<p>&emsp;&emsp;个人TG频道：<a href="https://t.me/phinsin666" target="_blank"> Phinsin </a></p>
+<p>&emsp;&emsp;个人TG群：<a href="https://t.me/phinsingroup" target="_blank"> Phinsin </a></p>
 
 
   <!-- for beauty 留个空行好看点 -->
