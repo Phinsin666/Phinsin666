@@ -26,7 +26,6 @@
 <p>&emsp;&emsp;欢迎加我steam:<a href="https://steamcommunity.com/profiles/76561199243741946"  target="_blank"> Steam好友 </p>
 <p>&emsp;&emsp;a controller player</p>
 <p>&emsp;&emsp;由于摆烂，现在是某小学英语老师躺平中。</p>
-<p>&emsp;&emsp;个人TG群：<a href="https://t.me/phinsingroup" target="_blank"> Phinsin </a></p>
 
 
   <!-- for beauty 留个空行好看点 -->
