@@ -23,6 +23,7 @@
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/54831037" />
 
 <p>&emsp;&emsp;Hi，我是Phinsin——普通教师，只喜欢打游戏。有大量时间摸鱼！</p>
+<p>&emsp;&emsp;个人博客，欢迎访问:<a href="https://961875654.xyz"  target="_blank"> 博客 </p>
 <p>&emsp;&emsp;欢迎加我steam:<a href="https://steamcommunity.com/profiles/76561199243741946"  target="_blank"> Steam好友 </p>
 <p>&emsp;&emsp;a controller player</p>
 <p>&emsp;&emsp;由于摆烂，现在是某小学英语老师躺平中。</p>
